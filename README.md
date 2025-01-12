@@ -62,7 +62,7 @@ A comprehensive cryptocurrency tracking website built with React that provides r
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone [https://github.com/Ankit389/crypto-graphical.git]
 ```
 
 2. Install dependencies:
@@ -79,7 +79,7 @@ npm run dev
 yarn dev
 ```
 
-4. Open your browser and visit `http://localhost:5173`
+4. Open your browser and visit `http://localhost:8080`
 
 ## Usage
 
